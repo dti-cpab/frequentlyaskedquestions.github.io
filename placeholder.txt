@@ -1,0 +1,114 @@
+                </li>
+                <li>
+                  <i>Who is a Person With Disability </i>
+                  <div class="answer-paragraph">
+                    <p>A Person With Disability is person who has a long-term physical, mental, intellectual or sensory 
+                    impairment which in interaction with various barriers may hinder their full and effective participation 
+                    in society on an equal basis with others. [IRR of RA 10754]</p>
+                  </div>
+                </li>
+                <li>
+                  <i>What is the law governing Senior Citizen Discount and Person with Disability Discount?</i>
+                  <div class="answer-paragraph">
+                    <p>The law governing Senior Citizens discount is Republic Act No. 9994 (RA 9994), or the Expanded 
+                    Senior Citizens Act of 2010, amending RA Nos.7432 and 9257, while the law governing the rights and 
+                    privileged for Persons With Disability is RA 10754, or An Act Expanding the Benefits and Privileges 
+                    of Persons with Disability, amending RA Nos. 7277, 9442 and 10070.</p>
+                  </div>
+                </li>
+                <li>
+                  <i>What are the products and services that a senior citizen/person with disability entitled to a discount?</i>
+                  <div class="answer-paragraph">
+                    <p>The products and services that a senior citizen and person with disability entitled to the grant of a discount are:
+                    <ol>
+                      <li> 20% discount and value-added tax (VAT) exemption on the purchase of: 
+                        <ul style="list-style: disc;">
+                          <li>Medical-related privileges:</li>
+                            <ul style="list-style:square;">
+                              <li>Medicine and drugs purchases</li>
+                              <li>Essential medical supplies, accessories and equipment</li>
+                              <li>Medical and dental services</li>
+                              <li>Professional fees of license professional health providing home health care services</li>
+                              <li>Professional fees of attending physicians</li>
+                            </ul>
+                          <li>Domestic transportation privileges</li>
+                          <li>Fare for public land, domestic air, and sea travel</li>
+                          <li>Hotels, restaurants, recreational centers, and places of leisure, and recreation center</li>
+                          <li>Admission fees charged by theaters, cinema houses and concert halls, circuses, leisure and amusement</li>
+                          <li>Funeral and burial services</li>
+                        </ul>
+                      </li>
+                      <li>5% special discount of the regular retail price, without exemption from the value-added tax (VAT), of basic necessities and prime commodities (BNPCs), listed in Section 2 (a) and (b) of the Joint Administrative  Order (JAO) No. 24-02, Series of 2024 or the “2024 Revised Rules on Granting Special Discounts to Senior Citizens and Persons with Disability on Purchase of Basic Necessities and Prime Commodities”</li>
+                    </ol> <br>
+                    It is noted that the discounts is for the exclusive use and enjoyment or availment of the senior citizen and person with disability.
+                  </p>
+                  </div>
+                </li>
+                <li>
+                  <i>What is the basis of the 5% special discount for senior citizens and persons with disability?</i>
+                  <div class="answer-paragraph">
+                    <p>The basis of the special discount to senior citizens and persons with disabilities is <b>Section 4 (j)</b> 
+                      of RA 9994 or the “Expanded Senior Citizens Act of 2010”, and <b>Section 32 (d)</b> of RA 7277 as amended, 
+                      which states that “to the extent possible, the government may grant special discounts in special programs 
+                      for senior citizens on the purchase of basic commodities, subject to the guidelines to be issued for 
+                      the purpose by the Department of Trade and Industry (DTI) and the Department of Agriculture (DA).”</p>
+                  </div>
+                </li>
+                <li>
+                  <i>What is Joint DTI-DA-DOE Administrative Order No. 24-02?</i>
+                  <div class="answer-paragraph">
+                    <p>Joint DTI-DA-DOE Administrative Order No.24-02 or the “2024 Revised Rules on Granting Special 
+                      Discounts to Senior Citizens and Persons With Disability on Purchase of Basic Necessities and 
+                      Prime Commodities (BNPCs)” is an amendment of Joint Administrative Order No. 17-01 and 17-02, series 
+                      of 2017 increasing the Special Discounts to Senior Citizens and Persons with Disability on 
+                      their purchase of BNPC considering inflation, among others. <br> <br>
+                        
+                      The aforementioned JAO came into effect on 25 March 2024.</p>
+                  </div>
+                </li>
+
+ORIGINAL
+
+<li> <div class="topic">
+            <div class="topic-left">
+              Credit Card
+            </div>
+            <div class="topic-right">
+              <img class = "chevron-down" id="cc" src="chevron_down.png" onclick="chevronClick(id)">
+            </div>
+            <div class = "answers" id = "answer-cc">
+              <ol class="answer-list">
+                <li>
+                  <i>Shall a retailer add a surcharge on the price tag when a consumer pays thru credit card?</i>
+                  <div class="answer-paragraph">
+                    <p>No. credit card payment is as good as CASH payments.</p>
+                  </div>
+                </li>
+                <li>
+                  <i>May retailers offer discount to the price tag when using credit/ATM/debit card payment?</i>
+                  <div class="answer-paragraph">
+                    <p>No, Department Administrative, Series of 2006 prohibits that practice as violation of the retailers who impose 
+                      additional charges on price tag. </p>
+                  </div>
+                </li>
+                <li>
+                  <i>May retailers refuse to accept credit card payments during sales promotion?</i>
+                  <div class="answer-paragraph">
+                    <p>Yes, but same discount must be extended to cash buyer.</p>
+                  </div>
+                </li>
+                <li>
+                  <i>May credit card companies charge interest rate on installment payment?</i>
+                  <div class="answer-paragraph">
+                    <p>No, retailers who accept credit card as payment shall do so on regular and promotional sales.</p>
+                  </div>
+                </li>
+                <li>
+                  <i>What is the payment method in computing the amortization, interest rate, and the period of payment on installment basis?</i>
+                  <div class="answer-paragraph">
+                    <p>Yes, but the installment payment should be separated from the price.</p>
+                  </div>
+                </li>
+              </ol>
+            </div>
+        </div> </li>
