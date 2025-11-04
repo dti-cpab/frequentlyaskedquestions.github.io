@@ -99,6 +99,17 @@ p{
   transition: max-height 0.5s ease-out;
 }
 
+.two-column {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+.two-column p {
+    width: calc(50% - 10px);
+    margin: 0;
+  }
+
 /*FOOTER DETAILS*/
 .footer-div{
   display: flex;
@@ -143,4 +154,5 @@ p{
     border-radius: 10%;
     margin: 10px 0;
     display: block;
+
   }
