@@ -9,7 +9,7 @@ html, body {
 h4{
   margin: 0px;
 }
-p{
+p, ol{
   font-size: medium;
 }
 
@@ -156,3 +156,4 @@ p{
     display: block;
 
   }
+
