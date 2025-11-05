@@ -98,7 +98,9 @@ p, ol{
   overflow: hidden;
   transition: max-height 0.5s ease-out;
 }
-
+.numbered-ul{
+  list-style-type: circle;
+}
 /* .two-column {
     display: flex;
     flex-wrap: wrap;
@@ -156,5 +158,6 @@ p, ol{
     display: block;
 
   }
+
 
 
